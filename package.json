@@ -1,0 +1,2 @@
+  { "name": "capstone-devops-app", "version": "1.0.0",
+                  "scripts": { "test": "node --test" }, "dependencies": { "express": "^4.19.2" } }
